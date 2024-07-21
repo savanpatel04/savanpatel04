@@ -4,27 +4,35 @@
   <Span>Actively looking for Software Developer roles | Software Developer | Java | ReactJS | Full Stack | API | M.S. in Computer Science at UTA </Span>
 </p>
 
-<p align="left">
-  <a href="mailto:savanbdesai@gmail.com" style="text-decoration: none; color: black; padding-left: 20px; display: flex; align-items: center;">
-    <img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="Email" style="vertical-align: middle;" width="30px">
-      savanbdesai@gmail.com
+---
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="mailto:savanbdesai@gmail.com" style="text-decoration: none; color: black;">
+    <img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="Email" width="25px">
   </a>
-  <a href="https://linkedin.com/in/savandesai" style="text-decoration: none; color: black; margin-right: 20px;">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle;" width="30px">
+  <a href="mailto:savanbdesai@gmail.com" style="text-decoration: none; color: black;">
+    <span>savanbdesai@gmail.com</span>
+  </a>
+  <a href="https://linkedin.com/in/savandesai" style="text-decoration: none; color: black;">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="25px">
+  </a>
+  <a href="https://linkedin.com/in/savandesai" style="text-decoration: none; color: black;">
     <span>LinkedIn</span>
   </a>
-  <a href="https://savandesai.github.io/" style="text-decoration: none; color: black; margin-right: 20px;">
-    <img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" style="vertical-align: middle;" width="30px">
+  <a href="https://savan-desai.netlify.app" style="text-decoration: none; color: black;">
+    <img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" width="25px">
+  </a>
+  <a href="https://savan-desai.netlify.app" style="text-decoration: none; color: black;">
     <span>Portfolio</span>
   </a>
-</p>
+</div>
 
-## 🏢 About me:
+---
+
+## 🚀 About me:
 As a passionate and innovative first-generation computer science graduate with a Master's in Computer and Information Sciences from the University of Texas at Arlington, I am driven to apply cutting-edge technologies to solve real-world challenges and contribute to groundbreaking advancements in the field. My experience as a software developer at Communication Crafts involved developing and enhancing Human Resource Management and billing systems for over 150 local businesses, where I drove profitability through customized solutions. I demonstrated proficiency in UI development using HTML, CSS, JavaScript, React JS, jQuery, and AJAX, as well as backend development with Java, Spring Boot, and SQL databases. Additionally, I optimized database performance, integrated RESTful APIs, and created and maintained stored procedures, functions, and data models to streamline business operations.
 
-
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+---
 
 ## 🛠 Technologies and Tools:
 <p align="left">
