@@ -1,4 +1,10 @@
-## Hi there 👋 I am Savan Desai
+<div align="center">
+<img src="./resource/savan-desai-github.gif" width="80" height="80" style="border-radius: 50%;">
+<br>
+<h1 align="center"><img src="./resource/savan-desai-hi.gif" width="40" height="40"> 😃 Savan Desai </h1>
+</div>
+
+
 
 <p align="left">
   <Span>Actively looking for Software Developer roles | Software Developer | Java | ReactJS | Full Stack | API | M.S. in Computer Science at UTA </Span>
