@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./resource/savan-desai-github.gif" width="80" height="80" style="border-radius: 50%;">
 <br>
-<h1 align="center"><img src="./resource/savan-desai-hi.gif" width="40" height="40"> 😃 Savan Desai </h1>
+<h1 align="center"><img src="./resource/savan-desai-hi.gif" width="35" height="35"> 😃 Savan Desai </h1>
 </div>
 
 
