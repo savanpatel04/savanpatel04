@@ -19,12 +19,6 @@
   <a href="mailto:savanbdesai@gmail.com" style="text-decoration: none; color: black;">
     <span>savanbdesai@gmail.com</span>
   </a>
-  <a href="https://linkedin.com/in/savandesai" style="text-decoration: none; color: black;">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="25px">
-  </a>
-  <a href="https://linkedin.com/in/savandesai" style="text-decoration: none; color: black;">
-    <span>LinkedIn</span>
-  </a>
   <a href="https://savan-desai.netlify.app" style="text-decoration: none; color: black;">
     <img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" width="25px">
   </a>
